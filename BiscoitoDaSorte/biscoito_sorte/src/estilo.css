@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+}
+
+.img {
+  width: 350px;
+  height: 350px;
+  margin-top: 50px;
+}
+
+.frase {
+  font-style: italic;
+  text-align: center;
+  color: yellow;
+}
